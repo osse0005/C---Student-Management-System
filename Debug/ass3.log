@@ -1,0 +1,46 @@
+﻿Build started 12/6/2012 5:55:51 PM.
+     1>Project "\\algshare\home\my documents\visual studio 2010\Projects\ass3\ass3\ass3.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\ass3.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\ass3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ass3.cpp COOPStudent.cpp DBManager.cpp Name.cpp RegularStudent.cpp Student.cpp
+         Student.cpp
+         RegularStudent.cpp
+         Name.cpp
+         DBManager.cpp
+         COOPStudent.cpp
+         ass3.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\ass3.exe.embed.manifest.res" Debug\ass3_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\algshare\home\my documents\visual studio 2010\Projects\ass3\Debug\ass3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ass3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"\\algshare\home\my documents\visual studio 2010\Projects\ass3\Debug\ass3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\algshare\home\my documents\visual studio 2010\Projects\ass3\Debug\ass3.lib" /MACHINE:X86 Debug\ass3.exe.embed.manifest.res
+         Debug\ass3.obj
+         Debug\COOPStudent.obj
+         Debug\DBManager.obj
+         Debug\Name.obj
+         Debug\RegularStudent.obj
+         Debug\Student.obj
+       Manifest:
+         Deleting file "Debug\ass3.exe.embed.manifest".
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ass3.exe.embed.manifest" /manifest Debug\ass3.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\ass3.exe.embed.manifest.res" Debug\ass3_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\algshare\home\my documents\visual studio 2010\Projects\ass3\Debug\ass3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ass3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"\\algshare\home\my documents\visual studio 2010\Projects\ass3\Debug\ass3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\algshare\home\my documents\visual studio 2010\Projects\ass3\Debug\ass3.lib" /MACHINE:X86 Debug\ass3.exe.embed.manifest.res
+         Debug\ass3.obj
+         Debug\COOPStudent.obj
+         Debug\DBManager.obj
+         Debug\Name.obj
+         Debug\RegularStudent.obj
+         Debug\Student.obj
+         ass3.vcxproj -> \\algshare\home\my documents\visual studio 2010\Projects\ass3\Debug\ass3.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\ass3.unsuccessfulbuild".
+         Touching "Debug\ass3.lastbuildstate".
+     1>Done Building Project "\\algshare\home\my documents\visual studio 2010\Projects\ass3\ass3\ass3.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.88
